@@ -155,4 +155,4 @@ python tools/test.py configs/hw3/mask-rcnn_swin-s_fpn_cell-seg_unet_v3_lossstub.
 
 
 # Performance Snapshot
-![alt text](image.png)
+![alt text](resources/snapshot.png)
